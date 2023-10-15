@@ -783,7 +783,7 @@ img {
     background-color: var(--color-grey5);
   }
   .controls .control {
-    margin: 1rem 1rem !important;
+    margin: 0.5rem 1rem !important;
   }
 }
 @media screen and (max-width: 700px) {
